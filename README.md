@@ -1,14 +1,14 @@
 # Power BI Northwind BI Project
 
-**Project:** Implementing a Business Intelligence (BI) System with Power BI  
-**Project Member:** Ana Menkshi  
+## Implementing a Business Intelligence (BI) System with Power BI  
+ 
 
 
 ## Project Overview
 
 This project demonstrates the implementation of a Business Intelligence system using **Power BI** connected to a **Northwind SQL Server database**. The goal is to analyze business data and provide actionable insights through interactive reports and visualizations.
 
-We followed these main steps:  
+I followed these main steps:  
 1. Installed SQL Server Developer Edition and SSMS.  
 2. Set up and explored the Northwind database.  
 3. Installed Power BI Desktop.  
@@ -118,15 +118,6 @@ Once the database is installed, you can explore tables, relationships, and sampl
 - The `.pbix` file in `/pbix` contains the full BI project with all layers implemented.
 - Ensure that the SQL Server instance name matches the connection used in Power BI.  
 - Follow the `step_by_step_setup.md` document for a ready-to-use setup of the project.
----
-
-## Notes
-
-- The `.pbix` file in `/pbix` contains the full BI project with all layers implemented.
-- Ensure that the SQL Server instance name matches the connection used in Power BI.  
-- Follow the `step_by_step_setup.md` document for a ready-to-use setup of the project.
-
-
 ---
 
 ## Author
