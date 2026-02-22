@@ -4,6 +4,7 @@
  
 
 
+
 ## Project Overview
 
 This project demonstrates the implementation of a Business Intelligence system using **Power BI** connected to a **Northwind SQL Server database**. The goal is to analyze business data and provide actionable insights through interactive reports and visualizations.
